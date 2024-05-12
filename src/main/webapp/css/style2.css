@@ -1,0 +1,92 @@
+.login {
+	align-items: center;
+	display: inline;
+	align-self: center;
+	text-align: center;
+	justify-content: center;
+}
+.row.cen {
+    justify-content: center;
+    max-height: 100%;
+    position: relative;
+}
+
+.new1{
+	max-width: 80%;
+}
+
+.new1 h5{
+	margin-top: 20px;
+}
+
+.new1 h5 span{
+	text-decoration: underline;
+}
+
+.지도 {
+	position: relative;
+	align-content: center;
+}
+
+.new2{
+	margin: auto;
+}
+
+.new3{
+	-ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 50%;
+}
+
+.new4{
+	margin: auto;
+	margin-top: 100px;
+}
+
+.new5{
+	-ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+  	text-align: center;
+  	align-items: center;
+}
+
+.site_btn2{
+    font-size: 18px; 
+    color: #ffffff;
+    font-weight: 800;
+    text-transform: uppercase;
+    display: inline-block;
+    padding: 13px 30px 12px;
+    background: #7fad39;
+    border: none;
+}
+.profile_div{
+	width: 250px;
+	height: 250px;
+	border-style: dashed;
+	border-width: 2px;
+	background: #f5f5f5;
+	margin-top: 10px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.profile_pic{
+	max-width: 80%;
+	max-height: 80%;
+	border-radius: 50%;
+}
+
+.pointer{
+	cursor: pointer;
+}
+
+.product_pic{
+	width: 200px;
+	height: 200px;	
+}
+
+
+

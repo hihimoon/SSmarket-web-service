@@ -1,0 +1,168 @@
+.productRegistration h4 {
+	margin-bottom: 50px;
+	text-align: center;
+}
+
+.productRegistration .stitle {
+	text-align: center;
+	font-size: 14px;
+}
+
+
+
+.productRegistration .checkout__input textarea {
+	height: 100px;
+	resize: none;
+	padding-top: 10px;
+}
+
+.productRegistration .checkout__input {
+	margin-bottom: 45px;
+}
+
+
+.productRegistration .formStyle {
+	width: 100%;
+	height: 46px;
+	border: 1px solid #ebebeb;
+	padding-left: 20px;
+	font-size: 16px;
+	color: #1c1c1c;
+	border-radius: 4px;
+}
+
+
+.productRegistration .site-btn {
+	width: 100%;
+	margin-top: 50px;
+}
+
+
+.productRegistration .checkout__input button {
+	background-color: #fff;
+	color: #b2b2b2;
+	text-align: left;
+}
+
+.productRegistration textarea::placeholder {
+	color: #b2b2b2;
+}
+
+.productRegistration .checkout__form {
+	margin-bottom: 45px;
+}
+
+.productRegistration .checkout__form p {
+	color: #1c1c1c;
+}
+
+
+.productRegistration .checkout__form p span {
+	color: #dd2222;
+}
+
+.shop__grid .filter__item {
+	padding-top: 70px;
+}
+
+
+.shop__grid .btn-group {
+	float: right;
+
+}
+
+.shop__grid .btn-group button {
+	font-size: 14px;
+	color: #717171;
+	outline: none;
+	box-shadow: none;
+}
+
+.shop__grid .filter__sort {
+	text-align: left;
+
+}
+
+.shop__grid .btn-group .special-style {
+	color: #1c1c1c;
+
+}
+
+.shop__grid .featured__item__text p {
+	margin-top: 10px;
+
+
+}
+
+.productRegistration .checkout__file p {
+	color: #1c1c1c;
+}
+
+.product-details .tab-content {
+	border-top: 1px solid #e0e0e0;
+	margin-top: 40px;
+	padding-top: 40px;
+}
+
+.product-details .tab-content p {
+	color: #1c1c1c;
+}
+
+.product-details .profile_pic{
+	width: 50px;
+	border-radius: 50%;
+	margin-right: 10px;
+	
+}
+
+
+.product-details .tab-content h5 {
+	font-weight: 600;
+	margin-bottom: 30px;
+}
+
+.hero__search__form form .filter__sort {
+	width: 20%;
+	float: left;
+	font-size: 16px;
+	color: #1c1c1c;
+	font-weight: 700;
+	padding-left: 18px;
+	padding-top: 11px;
+	position: relative;
+}
+.hero__search__form form .filter__sort:after{
+	position: absolute;
+    right: 0;
+    top: 14px;
+    height: 20px;
+    width: 1px;
+    background: #000000;
+    opacity: 0.1;
+    content: "";
+}
+/*
+.profile-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    align-items: center;
+}
+
+.product__details__profile {
+    margin-right: 15px;
+}
+
+.profile-image {
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.profile-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}*/
