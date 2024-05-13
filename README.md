@@ -15,7 +15,7 @@
 ## 기술 스택
 
 
-| JavaScript | JAVA       |  Html    |  CSS   |  Oracle   |  Spring  |
+| JavaScript | JAVA       |  Html    |  CSS   |  Oracle   |
 
 <br>
 
